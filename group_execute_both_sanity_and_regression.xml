@@ -5,8 +5,7 @@
   
   <groups>
   <run>
-  <include name="regression"></include>
-  <exclude name="sanity"></exclude>
+  <include name="functional"></include>
   </run>
   </groups>
     <classes>
